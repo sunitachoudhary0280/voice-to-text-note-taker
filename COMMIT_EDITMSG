@@ -1,0 +1,17 @@
+Initial Commit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# interactive rebase in progress; onto 3cda3dd
+# Last command done (1 command done):
+#    pick ab9158e Initial Commit
+# No commands remaining.
+# You are currently editing a commit while rebasing branch 'main' on '3cda3dd'.
+#
+# Changes to be committed:
+#	modified:   package.json
+#	modified:   src/App.css
+#	modified:   src/App.js
+#	modified:   src/components/NoteInput.js
+#

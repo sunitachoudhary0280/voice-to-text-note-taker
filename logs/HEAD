@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 ab9158e2ad5aa06f184ced53c1ade99f95a01acf shreya <21cse112@gweca.ac.in> 1734966297 +0530	commit (initial): Initial Commit
+ab9158e2ad5aa06f184ced53c1ade99f95a01acf 0000000000000000000000000000000000000000 shreya <21cse112@gweca.ac.in> 1734967835 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 ab9158e2ad5aa06f184ced53c1ade99f95a01acf shreya <21cse112@gweca.ac.in> 1734967835 +0530	Branch: renamed refs/heads/master to refs/heads/main
+ab9158e2ad5aa06f184ced53c1ade99f95a01acf 3cda3dd69b451c96acb500748d52aa841adee130 shreya <21cse112@gweca.ac.in> 1734967883 +0530	pull origin main --rebase (start): checkout 3cda3dd69b451c96acb500748d52aa841adee130
+3cda3dd69b451c96acb500748d52aa841adee130 3ff0bae87b64369ac48ce8c1db1f19c7c2d403fc shreya <21cse112@gweca.ac.in> 1734970588 +0530	commit: Initial commit
+3ff0bae87b64369ac48ce8c1db1f19c7c2d403fc 2be571c1e0cbc0fddf9ba24b6d5e4443dc05f135 shreya <21cse112@gweca.ac.in> 1734971123 +0530	commit: Initial commit
+2be571c1e0cbc0fddf9ba24b6d5e4443dc05f135 e73b3f14bab1860d14f269eb9d0989ced72dc4c4 shreya <21cse112@gweca.ac.in> 1745464793 +0530	rebase (continue): Initial Commit
+e73b3f14bab1860d14f269eb9d0989ced72dc4c4 e73b3f14bab1860d14f269eb9d0989ced72dc4c4 shreya <21cse112@gweca.ac.in> 1745464793 +0530	rebase (finish): returning to refs/heads/main
